@@ -1,2 +1,2 @@
 # sensor__pir
-# sensor__pir
+# pir sensor using arduino 
